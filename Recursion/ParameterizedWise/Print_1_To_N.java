@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.ParameterizedWise;
 import java.util.Scanner;
 public class Print_1_To_N {
     // here we are use the recursion to print the statements repeteadly so we are going to print 

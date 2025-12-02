@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.ParameterizedWise;
 import java.util.Scanner;
 public class Names{
     public static void main(String[]args){

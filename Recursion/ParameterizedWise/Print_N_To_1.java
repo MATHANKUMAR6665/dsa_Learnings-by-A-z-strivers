@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.ParameterizedWise;
 import java.util.Scanner;
 public class Print_N_To_1 {
     // this time we need to print the opposite direction we need to decrease the i value

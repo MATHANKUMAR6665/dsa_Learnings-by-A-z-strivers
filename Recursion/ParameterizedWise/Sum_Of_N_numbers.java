@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.ParameterizedWise;
 import java.util.Scanner;
 public class Sum_Of_N_numbers {
     //this is the program we are going to solve that soum of n numbers using recursion
