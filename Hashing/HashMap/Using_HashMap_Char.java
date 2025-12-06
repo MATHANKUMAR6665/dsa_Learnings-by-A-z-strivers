@@ -1,4 +1,4 @@
-package Hashing;
+package Hashing.HashMap;
 import java.util.HashMap;
 import java.util.Scanner;
 public class Using_HashMap_Char {
